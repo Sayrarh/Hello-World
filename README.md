@@ -1,5 +1,7 @@
 REMIX EXAMPLE PROJECT
 
+https://rinkeby.etherscan.io/address/0xcfb1bc734dd9aee583bc5f68c6ca189a89175629
+
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
 
